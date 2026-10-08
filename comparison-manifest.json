@@ -1,0 +1,87 @@
+{
+  "template": "https://prosperstack.com/compare/prosperstack-vs-churnkey/",
+  "created": "2026-10-08",
+  "articles": [
+    {
+      "product": "Churn Buster",
+      "file": "prosperstack-vs-churn-buster.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "ea7f3f123e6fcbec23b1c19b195f641a744595f0fb54055575565ea7912b4221",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "ChurnZero",
+      "file": "prosperstack-vs-churnzero.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "4965bfd318acc8633bccda6d0d6558346cf4405545843fcbb34f2bd34b60d5c7",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Chargebee Retention",
+      "file": "prosperstack-vs-chargebee-retention.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "ad0226c93f2400c4fda4d1d8044b1ebdeccba9f8cfeb41d0dc261fe5f07bf481",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Stay AI",
+      "file": "prosperstack-vs-stay-ai.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "0573a4f09ce14b92a333b206622660f7bfb891860f3e3e7898ecefc046de91d6",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Upzelo",
+      "file": "prosperstack-vs-upzelo.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "a0602e628d5e19fa660dae0108e3beb1df5c01c24d2dc309391beb84e0bf5487",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Raaft",
+      "file": "prosperstack-vs-raaft.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "22b5dedb3dc000deda05b15b72aba411da022e9b7f680d5200823a7fd4cf7321",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Stripe Billing",
+      "file": "prosperstack-vs-stripe-billing.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "87ae5de6d5e010cac8a16e60d9f81396f047afdc6e9da3193883d9555a500ab6",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Recurly",
+      "file": "prosperstack-vs-recurly.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "de75627be1392c9460a622b76694d68d47369db64c763e47e1f6502fc8c3c01f",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    },
+    {
+      "product": "Paddle Retain",
+      "file": "prosperstack-vs-paddle-retain.html",
+      "source_repository": "aschneiderlbl/workshop",
+      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
+      "source_sha256": "be1c92255c27cdb2648aabf671faf0f8bd89ce61ddca5d99ebc2ff44d5e06126",
+      "overview_rows": 4,
+      "comparison_rows": 16
+    }
+  ]
+}
