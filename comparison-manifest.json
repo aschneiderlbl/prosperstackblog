@@ -6,10 +6,11 @@
       "product": "Churn Buster",
       "file": "prosperstack-vs-churn-buster.html",
       "source_repository": "aschneiderlbl/workshop",
-      "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
-      "source_sha256": "ea7f3f123e6fcbec23b1c19b195f641a744595f0fb54055575565ea7912b4221",
+      "source_commit": "fd33ae5f57d8a61979d4be054d82fe3b7ae83abb",
+      "source_sha256": "dff2f4c25a16ad27e7ab4609878022242b35039f389d8b9fd9361f3587c95693",
       "overview_rows": 4,
-      "comparison_rows": 16
+      "comparison_rows": 16,
+      "owner_confirmation": "Andrew confirmed no native CRM/CDP integrations or AI-optimized offer copy on October 8, 2026."
     },
     {
       "product": "ChurnZero",
