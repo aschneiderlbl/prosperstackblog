@@ -30,7 +30,9 @@
       "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
       "source_sha256": "ad0226c93f2400c4fda4d1d8044b1ebdeccba9f8cfeb41d0dc261fe5f07bf481",
       "overview_rows": 4,
-      "comparison_rows": 16
+      "comparison_rows": 16,
+      "last_updated": "2026-10-09",
+      "revision_note": "October 9 template alignment with the live Churnkey page: template H1, contents labels, share block, last-updated line, at-a-glance paragraphs, loop steps, Autopilot bullets, 11 template FAQs, case-study figures and single-button closing CTA. Extra MCP and integrations subsections folded into loop step 1. Chargebee claims limited to those in the source article; not re-researched."
     },
     {
       "product": "Stay AI",
