@@ -41,7 +41,9 @@
       "source_commit": "cd82e43a9618f53d5d365545cc2c9f405d54f097",
       "source_sha256": "0573a4f09ce14b92a333b206622660f7bfb891860f3e3e7898ecefc046de91d6",
       "overview_rows": 4,
-      "comparison_rows": 16
+      "comparison_rows": 16,
+      "last_updated": "2026-10-11",
+      "revision_note": "October 11 template alignment with the live Churnkey page, following the Chargebee Retention pattern: template H1, meta description, contents labels, share block, last-updated line, at-a-glance paragraphs, loop steps, Autopilot bullets, 11 template FAQs, case-study figures and single-button closing CTA. Extra MCP and integrations subsections folded into loop steps 1 and 2. October 11 public-source check of Stay AI claims: Smart Dunning spelling corrected; ecommerce billing row replaced the '16 other subscription platforms' count with the named ecommerce platforms; SaaS billing cell changed to None listed; CRM/CDP cell expanded from Klaviyo to Klaviyo, Attentive, Postscript, Yotpo, Gorgias; proactive recommendations cell changed to Staylien and Stay Signals; conversion incentives cell changed from 'Subscriber acquisition tools' to trial-to-subscription plans and discounted one-click checkout links after reading stay.ai/product/subscriber-acquisition; top-customers link repointed to prosperstack.com/customers; save-offer list completed; Stay AI integration offer types stated; Hootsuite figure set to $997K per the case study."
     },
     {
       "product": "Upzelo",
