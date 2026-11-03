@@ -89,6 +89,17 @@
       "source_sha256": "be1c92255c27cdb2648aabf671faf0f8bd89ce61ddca5d99ebc2ff44d5e06126",
       "overview_rows": 4,
       "comparison_rows": 16
+    },
+    {
+      "product": "Vibe Coding",
+      "file": "prosperstack-vs-vibe-code.html",
+      "created": "2026-11-02",
+      "last_updated": "2026-11-02",
+      "status": "draft",
+      "template": "prosperstack-vs-churn-buster.html",
+      "overview_rows": 4,
+      "comparison_rows": 6,
+      "revision_note": "New article based on Andrew’s ROI, compliance and subscription reliability brief. Custom-build capabilities described as implementation responsibilities, not absent features. Noindex pending publication review."
     }
   ]
 }
