@@ -1,0 +1,7 @@
+# Operator-led revision
+
+Andrew clarified after the initial November 12 reframe that ROI, compliance, and protecting renewing customers reflect his real decision to retain ProsperStack when his CEO proposed an AI-built flow. Aaron clarified that he did not mean to remove those points. This supersedes the earlier review record's choice to make four pillars the article spine.
+
+The revised article retains those three concerns as the core numbered sections. Retention as a discipline, experimentation, customer context, churn intelligence, and operational control explain how ProsperStack addresses them. Hootsuite and Star Tribune are operating examples in ROI; Roll20 supports churn intelligence in customer retention. MCP and the existing low-volume domestic fit remain supporting sections. No visible slang or feature tables restored.
+
+Author self-review: checked the six-section outline against the owner clarification, unique IDs and internal links, two original product images, no em dashes, case-study attribution, and preservation of the close. No new performance figures or legal findings introduced; prior primary-source checks remain the factual basis. The assembled article was reviewed for repetition and audience consistency. These are author checks, not Aaron approval or actual Claude review. Final accuracy review remains pending. Saved to GitHub main; production prosperstack.com publication is not claimed.
